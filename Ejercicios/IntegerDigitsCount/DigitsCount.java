@@ -9,6 +9,6 @@ public class DigitsCount {
 
     public static void main(String[] args) {
         DigitsCount digitsCount = new DigitsCount();
-        System.out.println(digitsCount.count(12345));
+        System.out.println(digitsCount.count(999999));
     }
 }
