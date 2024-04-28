@@ -1,5 +1,7 @@
 import java.util.Arrays;
 
+// Ejemplos de notaciones BigO
+
 public class Main {
 
     /* Ejercicio 1
